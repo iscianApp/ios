@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1a4e9b30-3d9d-4046-b0b8-67896a71242c++4067",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "1a4e9b30-3d9d-4046-b0b8-67896a71242c++4067" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1a4e9b30-3d9d-4046-b0b8-67896a71242c++4067" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1DEE7310-F501-4305-9D20-E362D4BFE1BB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1a4e9b30-3d9d-4046-b0b8-67896a71242c++4067" : "LUDE\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LUDE",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LUDE.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn002.bluemobi.cn\/svn\/kj201500229_15080561011590",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1a4e9b30-3d9d-4046-b0b8-67896a71242c++4067"
+    }
+  ]
+}
